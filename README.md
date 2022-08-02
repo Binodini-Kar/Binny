@@ -64,7 +64,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Binodini-Kar/github-readme-activity-graph"><img alt="Binodini-Kar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NBinodini-Kar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Binodini-Kar/github-readme-activity-graph"><img alt="Binodini-Kar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Binodini-Kar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
