@@ -72,7 +72,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://twitter.com/BinodiniKar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://twitter.com/Binodini-Kar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/binnie_k4/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
