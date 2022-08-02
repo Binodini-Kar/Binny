@@ -55,8 +55,8 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/Nandini14114/github-readme-stats"><img alt="Nandini Tripurana Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nandini14114&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Nandini14114/github-readme-stats"><img alt="Nandini Tripurana Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandini14114&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Binodini-Kar/github-readme-stats"><img alt="Binodini-Kar Github Stats" src="https://github-readme-stats.vercel.app/api?username=Binodini-Kar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Binodini-Kar/github-readme-stats"><img alt="Binodini-Kar Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binodini-Kar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -64,7 +64,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Nandini14114/github-readme-activity-graph"><img alt="Nandini Tripurana Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Nandini14114&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Binodini-Kar/github-readme-activity-graph"><img alt="Binodini-Kar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NBinodini-Kar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -72,15 +72,12 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://twitter.com/NandiniT14"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/nandini_tripurana14/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.facebook.com/Nandini Tripurana/"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
-
-
+<a href = "https://twitter.com/BinodiniKar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/binnie_k4/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Nandini14114/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Nandini14114">
+<a href="https://github.com/Binodini-Kar/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Binodini-Kar">
 </a>
-<a href="https://github.com/Nandini14114?tab=followers"><img src="https://img.shields.io/github/followers/Nandini14114?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Binodini-Kar?tab=followers"><img src="https://img.shields.io/github/followers/Binodini-Kar?label=Followers&style=social" alt="GitHub Badge"></a>
